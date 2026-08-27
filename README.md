@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Rafael M. Paiznate 👋
 
-<!--
-**rafaelmpaizante/rafaelmpaizante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Suporte TI (N1/N2) | Em transição para Desenvolvimento Full Stack**
 
-Here are some ideas to get you started:
+Atualmente atuo com suporte técnico e estou direcionando minha carreira para o desenvolvimento de software web, construindo uma base sólida em lógica, estruturação e programação front-end/back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 O que estou estudando no momento:
+- **Formando:** Desenvolvedor Full Stack (Hashtag Treinamentos)
+- **Front-end:** HTML5 Semântico, CSS3 e Design Responsivo
+
+
+---
+
+### 🛠️ Principais Tecnologias & Ferramentas:
+- **Web:** HTML5
+- **Outros:** Git, GitHub, Sistemas Operacionais, Redes e Suporte Técnico
+
+---
+
+📫 **Como me encontrar:**
+- https://www.linkedin.com/in/rafael-monteiro-paizante/
