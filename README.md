@@ -8,7 +8,7 @@ Atualmente atuo com suporte técnico e estou direcionando minha carreira para o 
 
 ### 🚀 O que estou estudando no momento:
 - **Formando:** Desenvolvedor Full Stack (Hashtag Treinamentos)
-- **Front-end:** HTML5 Semântico, CSS3 e Design Responsivo
+- **Front-end:** HTML5 Semântico, CSS3 e Design Responsivo (Hashtag Treinamentos)
 
 
 ---
