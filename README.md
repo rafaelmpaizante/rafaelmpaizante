@@ -1,4 +1,4 @@
-# Olá, eu sou Rafael M. Paiznate 👋
+# Olá, eu sou Rafael M. Paizante 👋
 
 💻 **Suporte TI (N1/N2) | Em transição para Desenvolvimento Full Stack**
 
